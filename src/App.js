@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React is cool but difficult for now
+          Learn React is cool, but difficult for now
         </a>
       </header>
     </div>
